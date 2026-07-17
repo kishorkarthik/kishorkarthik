@@ -1,16 +1,18 @@
-## Hi there 👋
+## Kishor Karthik 
 
-<!--
-**kishorkarthik/kishorkarthik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer | IIT Madras BS Data Science
+> Build things people enjoy using.
 
-Here are some ideas to get you started:
+### Building:
+- [timewatcher v0.1.0](https://github.com/kishorkarthik/timewatcher) - Keep your hands on the keyboard—log your active work hours via the CLI.
+  
+### Next Project:
+- MudRox - A long-term passion project to build the most satisfying buggy to drive.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Essays
+- Who Are We Becoming Better For? - Jun 2026 - [Click Here](https://kishorkarthik.github.io/who-are-we-becoming-better-for.html)
+
+### Links:
+- [Kishorkarthik.github.io](https://kishorkarthik.github.io/) 
+- [LinkedIn](https://www.linkedin.com/in/kishor-karthik-ramalingam/) 
+- [Essays](https://kishorkarthik.github.io/essays)
