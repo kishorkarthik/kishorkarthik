@@ -7,7 +7,7 @@ Software Engineer | IIT Madras BS Data Science
 ### Building:
 - [timewatcher v0.1.0](https://github.com/kishorkarthik/timewatcher/tree/develop) - developing the mvp version `v0.1.0` of timewatcher.
 
-### Raodmap:
+### Roadmap:
 - MudRox - A long-term passion project to build the most satisfying buggy to drive.
 
 ### Projects:
