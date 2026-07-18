@@ -14,7 +14,8 @@ Software Engineer | IIT Madras BS Data Science
 - [timewatcher](https://github.com/kishorkarthik/timewatcher) - Keep your hands on the keyboard—log your active work hours via the CLI.
 
 ### Essays:
-- Who Are We Becoming Better For? - Jun 2026 - [Click Here](https://kishorkarthik.github.io/who-are-we-becoming-better-for.html)
+- What Future Are We Planning For? July 2026 - [Click Here](https://www.linkedin.com/pulse/what-future-planning-kishor-karthik-ramalingam-0houc/)
+- Who Are We Becoming Better For? - June 2026 - [Click Here](https://www.linkedin.com/pulse/who-we-becoming-better-kishor-karthik-ramalingam-vvfgc/)
 
 ### Links:
 - [Kishorkarthik.github.io](https://kishorkarthik.github.io/) 
