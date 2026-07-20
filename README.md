@@ -20,4 +20,4 @@ Software Engineer | IIT Madras BS Data Science
 ### Links:
 - [Kishorkarthik.github.io](https://kishorkarthik.github.io/) 
 - [LinkedIn](https://www.linkedin.com/in/kishor-karthik-ramalingam/) 
-- [Essays](https://kishorkarthik.github.io/essays)
+
