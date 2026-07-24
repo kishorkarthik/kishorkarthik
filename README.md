@@ -1,7 +1,5 @@
 ## Kishor Karthik 
 
-Software Engineer | IIT Madras BS Data Science
-
 > Build things people enjoy using.
 
 ### Building:
