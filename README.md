@@ -1,12 +1,11 @@
 ## Kishor Karthik 
 
-> Building stuff.
+> I am currently pursuing my [BS in Data Science and Applications](https://study.iitm.ac.in/ds/) at the [Indian Institute of Technology, Madras](https://www.iitm.ac.in/).
 
 ### Building:
-- [timewatcher v0.1.0](https://github.com/kishorkarthik/timewatcher/tree/develop) - developing the mvp version `v0.1.0` of timewatcher.
+- MudRox - A long-term passion project to build the most satisfying buggy to drive.
 
 ### Roadmap:
-- MudRox - A long-term passion project to build the most satisfying buggy to drive.
 - Voyager - Building the world's most complete collection of bucket-list destinations.
 
 ### Projects:
@@ -19,4 +18,3 @@
 ### Links:
 - [Kishorkarthik.github.io](https://kishorkarthik.github.io/) 
 - [LinkedIn](https://www.linkedin.com/in/kishor-karthik-ramalingam/) 
-
