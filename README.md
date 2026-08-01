@@ -3,7 +3,7 @@
 > I am currently pursuing my [BS in Data Science and Applications](https://study.iitm.ac.in/ds/) at the [Indian Institute of Technology, Madras](https://www.iitm.ac.in/).
 
 ### Building:
-- MudRox - A long-term passion project to build the most satisfying buggy to drive.
+- [MudRox](https://github.com/kishorkarthik/MudRox) - A long-term passion project to build the most satisfying buggy to drive.
 
 ### Roadmap:
 - Voyager - Building the world's most complete collection of bucket-list destinations.
