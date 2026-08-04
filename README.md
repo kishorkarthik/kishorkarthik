@@ -6,7 +6,7 @@
 - [MudRox](https://github.com/kishorkarthik/MudRox) - A long-term passion project to build the most satisfying buggy to drive.
 
 ### Roadmap:
-- Voyager - Building the world's most complete collection of bucket-list destinations.
+- Stardust - Building the world's most complete collection of bucket-list destinations.
 
 ### Projects:
 - [timewatcher](https://github.com/kishorkarthik/timewatcher) - Keep your hands on the keyboard—log your active work hours via the CLI.
