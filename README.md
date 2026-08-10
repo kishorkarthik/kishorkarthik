@@ -2,15 +2,6 @@
 
 > I am currently pursuing my [BS in Data Science and Applications](https://study.iitm.ac.in/ds/) at the [Indian Institute of Technology, Madras](https://www.iitm.ac.in/).
 
-### Stats:
-Programming Languages:
-<!-- LANGUAGES:START -->
-- HTML — 71.1%
-- Python — 20.1%
-- DIGITAL Command Language — 5.8%
-- CSS — 2.5%
-<!-- LANGUAGES:END -->
-
 ### Building:
 - [MudRox](https://github.com/kishorkarthik/MudRox) - A long-term passion project to build the most satisfying buggy to drive.
 
