@@ -21,13 +21,11 @@ jobs:
         uses: actions/setup-python@v6
         with:
           python-version: "3.13"
-          
+
       - name: Install dependencies
-        run: pip install requests
+        run: python -m pip install requests
 
       - name: Update language statistics
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/update_languages.py
 
       - name: Commit changes
