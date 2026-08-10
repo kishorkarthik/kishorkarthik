@@ -1,4 +1,3 @@
-import os
 from collections import defaultdict
 from pathlib import Path
 
@@ -12,7 +11,6 @@ API = "https://api.github.com"
 
 HEADERS = {
     "Accept": "application/vnd.github+json",
-    "Authorization": f"Bearer {os.environ['GITHUB_TOKEN']}",
 }
 
 
@@ -22,11 +20,10 @@ def get_repositories():
 
     while True:
         response = requests.get(
-            f"{API}/user/repos",
+            f"{API}/users/{USERNAME}/repos",
             headers=HEADERS,
             params={
-                "visibility": "public",
-                "affiliation": "owner",
+                "type": "owner",
                 "per_page": 100,
                 "page": page,
             },
@@ -62,6 +59,7 @@ def calculate_distribution():
     totals = defaultdict(int)
 
     for repository in get_repositories():
+
         # Ignore forked repositories.
         if repository["fork"]:
             continue
@@ -81,11 +79,14 @@ def calculate_distribution():
     for language, byte_count in totals.items():
         percentage = byte_count / total_bytes * 100
 
-        # Ignore insignificant languages.
+        # Ignore languages below 1%.
         if percentage >= 1:
             distribution.append((language, percentage))
 
-    distribution.sort(key=lambda item: item[1], reverse=True)
+    distribution.sort(
+        key=lambda item: item[1],
+        reverse=True,
+    )
 
     # Keep the README compact.
     return distribution[:8]
@@ -96,6 +97,11 @@ def update_readme(distribution):
     end_marker = "<!-- LANGUAGES:END -->"
 
     text = README.read_text(encoding="utf-8")
+
+    if start_marker not in text or end_marker not in text:
+        raise RuntimeError(
+            "Language markers were not found in README.md"
+        )
 
     before, remainder = text.split(start_marker, 1)
     _, after = remainder.split(end_marker, 1)
@@ -120,7 +126,10 @@ def update_readme(distribution):
         + after
     )
 
-    README.write_text(updated, encoding="utf-8")
+    README.write_text(
+        updated,
+        encoding="utf-8",
+    )
 
 
 def main():
