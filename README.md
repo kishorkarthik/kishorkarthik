@@ -12,9 +12,9 @@
 - [timewatcher](https://github.com/kishorkarthik/timewatcher) - Keep your hands on the keyboard—log your active work hours via the CLI.
 
 ### Essays:
-- Why Do Things Tend To Get Worse If Left Alone? - August 2026- [Click Here](https://www.linkedin.com/pulse/why-do-things-tend-get-worse-left-alone-kishor-karthik-ramalingam-7lbic/)
-- What Future Are We Planning For? - July 2026 - [Click Here](https://www.linkedin.com/pulse/what-future-planning-kishor-karthik-ramalingam-0houc/)
-- Who Are We Becoming Better For? - June 2026 - [Click Here](https://www.linkedin.com/pulse/who-we-becoming-better-kishor-karthik-ramalingam-vvfgc/)
+- Why Things Decay? - August 2026- [Click Here](https://kishorkarthik.github.io/why-things-decay.html)
+- What Future Are We Planning For? - July 2026 - [Click Here](https://kishorkarthik.github.io/what-future-are-we-planning-for.html)
+- Who Are We Becoming Better For? - June 2026 - [Click Here](https://kishorkarthik.github.io/who-are-we-becoming-better-for.html)
 
 ### Links:
 - [Kishorkarthik.github.io](https://kishorkarthik.github.io/) 
