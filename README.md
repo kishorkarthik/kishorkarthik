@@ -5,7 +5,10 @@
 ### Stats:
 Programming Languages:
 <!-- LANGUAGES:START -->
-- Python — 0.0%
+- HTML — 71.1%
+- Python — 20.1%
+- DIGITAL Command Language — 5.8%
+- CSS — 2.5%
 <!-- LANGUAGES:END -->
 
 ### Building:
