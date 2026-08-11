@@ -6,6 +6,7 @@
 - [MudRox](https://github.com/kishorkarthik/MudRox) - A long-term passion project to build the most satisfying buggy to drive.
 
 ### Roadmap:
+- Resume Agent - An AI-powered platform for building, managing, and tailoring resumes.
 - Stardust - Building the world's most complete collection of bucket-list destinations.
 
 ### Projects:
