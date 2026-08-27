@@ -13,7 +13,6 @@
 - [timewatcher](https://github.com/kishorkarthik/timewatcher) - Keep your hands on the keyboard—log your active work hours via the CLI.
 
 ### Essays:
-- Why Things Decay? - August 2026- [Click Here](https://kishorkarthik.github.io/why-things-decay.html)
 - What Future Are We Planning For? - July 2026 - [Click Here](https://kishorkarthik.github.io/what-future-are-we-planning-for.html)
 - Who Are We Becoming Better For? - June 2026 - [Click Here](https://kishorkarthik.github.io/who-are-we-becoming-better-for.html)
 
