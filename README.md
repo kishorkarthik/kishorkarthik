@@ -6,11 +6,14 @@
 - [MudRox](https://github.com/kishorkarthik/MudRox) - A long-term passion project to build the most satisfying buggy to drive.
 
 ### Roadmap:
-- Resume Agent - An AI-powered platform for building, managing, and tailoring resumes.
+- BloomAPI - Build Self-Maintaing APIs.
 - Stardust - Building the world's most complete collection of bucket-list destinations.
 
 ### Projects:
 - [timewatcher](https://github.com/kishorkarthik/timewatcher) - Keep your hands on the keyboard—log your active work hours via the CLI.
+
+### OSS
+- [BS Data Sciene Master Notes](https://github.com/kishorkarthik/BS-Data-Science-Master-Notes) - Open-source study notes for the IIT Madras BS in Data Science and Applications. 
 
 ### Essays:
 - What Future Are We Planning For? - July 2026 - [Click Here](https://kishorkarthik.github.io/what-future-are-we-planning-for.html)
