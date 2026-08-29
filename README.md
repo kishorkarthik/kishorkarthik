@@ -22,4 +22,4 @@
 ### Links:
 - [LinkedIn](https://www.linkedin.com/in/kishor-karthik-ramalingam/) 
 - [Kishorkarthik.github.io](https://kishorkarthik.github.io/) 
-- [MudRox](https://mudrox.vercel.app/)
+- [mudrox.vercel.app](https://mudrox.vercel.app/)
