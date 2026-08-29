@@ -12,7 +12,7 @@
 ### Projects:
 - [timewatcher](https://github.com/kishorkarthik/timewatcher) - Keep your hands on the keyboard—log your active work hours via the CLI.
 
-### OSS
+### OSS:
 - [BS Data Sciene Master Notes](https://github.com/kishorkarthik/BS-Data-Science-Master-Notes) - Open-source study notes for the IIT Madras BS in Data Science and Applications. 
 
 ### Essays:
@@ -20,5 +20,6 @@
 - Who Are We Becoming Better For? - June 2026 - [Click Here](https://kishorkarthik.github.io/who-are-we-becoming-better-for.html)
 
 ### Links:
-- [Kishorkarthik.github.io](https://kishorkarthik.github.io/) 
 - [LinkedIn](https://www.linkedin.com/in/kishor-karthik-ramalingam/) 
+- [Kishorkarthik.github.io](https://kishorkarthik.github.io/) 
+- [MudRox](https://mudrox.vercel.app/)
