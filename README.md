@@ -13,7 +13,7 @@
 - [timewatcher](https://github.com/kishorkarthik/timewatcher) - Keep your hands on the keyboard—log your active work hours via the CLI.
 
 ### OSS:
-- [BS Data Sciene Open Notes](https://github.com/kishorkarthik/iitm-ds-notes) - Open-source study notes for the IIT Madras BS in Data Science and Applications. 
+- [IITM DS Open Notes](https://github.com/kishorkarthik/iitm-ds-open-notes) - Open-source study notes for the IIT Madras BS in Data Science and Applications, structured and maintained as a documentation site. 
 
 ### Essays:
 - What Future Are We Planning For? - July 2026 - [Click Here](https://kishorkarthik.github.io/what-future-are-we-planning-for.html)
@@ -23,4 +23,5 @@
 - [LinkedIn](https://www.linkedin.com/in/kishor-karthik-ramalingam/) 
 - [Kishorkarthik.github.io](https://kishorkarthik.github.io/) 
 - [mudrox.vercel.app](https://mudrox.vercel.app/)
+- [iitm-ds-open-notes.vercel.app](https://iitm-ds-open-notes.vercel.app/)
   
