@@ -1,5 +1,4 @@
 ## Kishor Karthik 
-
 > I am currently pursuing my [BS in Data Science and Applications](https://study.iitm.ac.in/ds/) at the [Indian Institute of Technology, Madras](https://www.iitm.ac.in/).
 
 ### Building:
@@ -9,9 +8,6 @@
 
 ### Roadmap:
 - BloomAPI - Build Self-Maintaing APIs.
-
-### Projects:
-- [IITM DS Open Notes](https://github.com/kishorkarthik/iitm-ds-open-notes) - Open-source study notes for the IIT Madras BS in Data Science and Applications, structured and maintained as a documentation site. 
 
 ### Essays:
 - A Plain English Guide To LLMs - Novemebr 2026 - [Click Here](https://github.com/kishorkarthik/posts/blob/main/2026/a-plain-english-guide-to-llms.md)
