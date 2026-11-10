@@ -22,6 +22,3 @@
 ### Links:
 - [LinkedIn](https://www.linkedin.com/in/kishor-karthik-ramalingam/) 
 - [Kishorkarthik.github.io](https://kishorkarthik.github.io/) 
-- [mudrox.vercel.app](https://mudrox.vercel.app/)
-- [iitm-ds-open-notes.vercel.app](https://iitm-ds-open-notes.vercel.app/)
-  
