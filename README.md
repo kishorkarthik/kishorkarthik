@@ -2,6 +2,7 @@
 > I am currently pursuing my [BS in Data Science and Applications](https://study.iitm.ac.in/ds/) at the [Indian Institute of Technology, Madras](https://www.iitm.ac.in/).
 
 ### Building
+- [agent-scripts](https://github.com/kishorkarthik/agent-scripts) - Reusable scripts, skills and workflows for Karthik's local workspace.
 - [timewatcher](https://github.com/kishorkarthik/timewatcher) - Keep your hands on the keyboard—log your active work hours via the CLI.
 - [MudRox](https://github.com/kishorkarthik/MudRox) - A long-term passion project to build the most satisfying buggy to drive.
 - RxFlow - Agentic prescription-intake workflow for pharmacies
