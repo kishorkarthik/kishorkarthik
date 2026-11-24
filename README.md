@@ -3,9 +3,10 @@
 
 ### Building
 - [agent-scripts](https://github.com/kishorkarthik/agent-scripts) - Reusable scripts, skills and workflows for Karthik's local workspace.
+  [machine-setup](https://github.com/kishorkarthik/machine-setup) - Machine setup guides, configurations, dotfiles, and utility scripts. 
 - [timewatcher](https://github.com/kishorkarthik/timewatcher) - Keep your hands on the keyboard—log your active work hours via the CLI.
 - [MudRox](https://github.com/kishorkarthik/MudRox) - A long-term passion project to build the most satisfying buggy to drive.
-- RxFlow - Agentic prescription-intake workflow for pharmacies
+- [RxFlow](https://github.com/kishorkarthik/rxflow) - Agentic prescription-intake workflow for pharmacies
 
 ### Roadmap
 - BloomAPI - Build Self-Maintaing APIs.
