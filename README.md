@@ -6,8 +6,6 @@
 - [machine-setup](https://github.com/kishorkarthik/machine-setup) - Machine setup guides, configurations, dotfiles, and utility scripts. 
 - [timewatcher](https://github.com/kishorkarthik/timewatcher) - Keep your hands on the keyboard—log your active work hours via the CLI.
 - [MudRox](https://github.com/kishorkarthik/MudRox) - A long-term passion project to build the most satisfying buggy to drive.
-- [RxFlow](https://github.com/kishorkarthik/rxflow) - Agentic prescription-intake workflow for pharmacies
-- [Graph2D](https://github.com/kishorkarthik/graph2d) - A lightweight interactive 2D graphing tool for mathematical functions.
 
 ### Posts
 - A Plain English Guide To LLMs - Novemebr 2026 - [Click Here](https://github.com/kishorkarthik/posts/blob/main/2026/a-plain-english-guide-to-llms.md)
